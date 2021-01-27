@@ -4,4 +4,5 @@
     <string name="password">Password</string>
     <string name="ok">OK</string>
     <string name="registration">Registration</string>
+    <string name="external">Хранить логин во внешнем хранилище</string>
 </resources>
